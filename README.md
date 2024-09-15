@@ -10,6 +10,13 @@ Welcome to my showcase!***
     
 - ITIL Foundations 4
 - Google IT Support Professional
-  
-Other repositories: 
-[Leave Manager](https://github.com/davidsoundar/Leave_Manager)
+
+Programming projects:
+
+
+Random data science project: 
+
+[Linear regression of mental health prediction](https://mental-health-predictor.onrender.com/)
+
+
+Programming project repositories below:

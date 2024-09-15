@@ -1,4 +1,4 @@
-***<h1>Greetings Travelers, I'm Kyle, your <a href="https://www.linkedin.com/in/kyle-kelso/">Cybersecurity Specialist</a>,  
+***<h1>Greetings Travelers, I'm David, your Cybersecurity Specialist,
 Welcome to my showcase!***
 
 <h2>🔒💻 Cyber Security / IT Projects 💻🔒</h2>

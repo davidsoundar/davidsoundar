@@ -1,4 +1,4 @@
-***<h1>Greetings Travelers, I'm David, your Cybersecurity Specialist,
+***<h1>Greetings, I'm David, your Cybersecurity Specialist,
 Welcome to my showcase!***
 
 <h2>🔒💻 Cyber Security / IT Projects 💻🔒</h2>
@@ -12,3 +12,4 @@ Welcome to my showcase!***
 - Google IT Support Professional
   
 Other repositories: 
+[Leave Manager](https://github.com/davidsoundar/Leave_Manager)

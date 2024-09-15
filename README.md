@@ -11,12 +11,10 @@ Welcome to my showcase!***
 - ITIL Foundations 4
 - Google IT Support Professional
 
-Programming projects:
 
-
-Random data science project: 
+ <h3> Random data science project:  </h3>
 
 [Linear regression of mental health prediction](https://mental-health-predictor.onrender.com/)
 
 
-Programming project repositories below:
+ <h3> Programming project repositories below:  </h3>

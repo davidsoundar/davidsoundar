@@ -7,7 +7,8 @@ Welcome to my showcase!***
 
     
 <h2> Certifications </h2>
-    
+
+- CompTIA A+
 - ITIL Foundations 4
 - Google IT Support Professional
 

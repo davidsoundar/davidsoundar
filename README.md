@@ -1,4 +1,4 @@
-***<h1>Hello, I'm David, your IT and programming specialist,
+***<h1>Hello, I'm David, your IT and programming specialist.
 Welcome to my showcase!***
 
 <h2>🔒💻 Cyber Security / IT Projects 💻🔒</h2>

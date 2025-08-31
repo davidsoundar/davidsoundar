@@ -1,4 +1,4 @@
-***<h1>Hello, I'm David, your IT and programming specialist.
+***<h1>Hello, I'm Sidd, your IT and programming specialist.
 Welcome to my showcase!***
 
 <h2>🔒💻 Cyber Security / IT Projects 💻🔒</h2>
@@ -13,7 +13,7 @@ Welcome to my showcase!***
 - Google IT Support Professional
 
 
- <h3> Random data science project:  </h3>
+ <h3> A Data science project:  </h3>
 
 [Linear regression of mental health prediction](https://mental-health-predictor.onrender.com/)
 
